@@ -9494,7 +9494,15 @@ let cards = [
     imageLink: './Art/lets-goooo/lets-go.gif',
     author: 'piyush',
     githubLink: 'https://github.com/PiyushChandra17'
+  },
+  {
+    artName: 'Shooting Star',
+    pageLink: './Art/Kiruthika/index.html',
+    imageLink: './Art/Kiruthika/shooting-star.gif',
+    author: 'Kiruthika',
+    githubLink: 'https://github.com/Kiruthika71'
   }
+  
 ];
 
 // +--------------------------------------------------------------------------------+
